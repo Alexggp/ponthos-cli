@@ -1,0 +1,17 @@
+{
+  "name": "porthosjs",
+  "version": "1.0.0",
+  "description": "CLI to create a prothos node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alejandro García-Gasco Pérez",
+  "license": "ISC",
+  "bin": {
+	"generate": "./index.js"
+  },
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
